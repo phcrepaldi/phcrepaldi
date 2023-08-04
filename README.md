@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a school management project in Java
 - 🌱 I’m currently learning C++ and SpringBoot/Thymeleaf
 - 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I always worked as a graphic designer and as I always liked programming I decided it was time to change areas and try a new career as a programmer
+- ⚡ Fun fact: With a solid background in graphic design and a deep passion for programming, I embarked on an exciting journey of transitioning into a new career as a programmer.
 
 <div> <a href="https://github.com/phcrepaldi"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phcrepaldi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
